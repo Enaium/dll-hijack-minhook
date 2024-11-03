@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\dinput8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\hde32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\hde64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hook.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\trampoline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\include\MinHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\hde32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\hde64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\pstdint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\table32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\hde\table64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\MinHook\src\trampoline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\dinput8_asm.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Enaium\Desktop\wrap_dll-master\dinput8\dinput8.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E208F86F-F3A0-31E9-AC92-B66DE736F998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EFF0667E-4A71-3B67-942D-A9BF8D06F893}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

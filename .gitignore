@@ -1,0 +1,70 @@
+# CMake build directories
+/build/
+out/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.cmake
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+*.pdb
+*.idb
+*.ninja*
+
+# User-specific files
+*.user
+*.sln.docstates
+*.suo
+*.userprefs
+*.userossc
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
+
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+*.ncb
+*.aps
+*.pch
+*.idb
+*.ilk
+*.log
+*.obj
+*.bin
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.dbmdl
+*.jfm
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Rr]elWithDebInfo/
+[Mm]inimal/
+[Dd]eploy/
+[Uu]npublished/
+
+# Third-party libraries
+**/ThirdParty/*
